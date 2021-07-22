@@ -1,4 +1,4 @@
-1. 用Vue 3 + Typescript + Vite方式构建的
+1. 用Vue 3 + Typescript + Vite方式构建的，也可直接在工程中新建packages文件夹在里面打包发布
 ```
 npm init vite@latest
 npm create vite
